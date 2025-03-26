@@ -79,11 +79,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-[Insert your license here, e.g., MIT License]
-
-## 🐛 Bug Reports
-
-Please open an issue on GitHub with detailed information about the bug.
+MIT
 
 ## 🌟 Acknowledgments
 
